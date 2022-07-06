@@ -1,0 +1,50 @@
+.top-container {
+    width: 1000px;
+    height: 600px;
+    background-image: url(donate-today-main/images/donation5.jpg);
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    padding-right: 20px;
+    
+}
+
+.head-img-text {
+    color:AntiqueWhite;
+    text-align: center;
+   padding-top: 200px;
+   font-weight: 700;
+   font-family: 'Arvo', serif;
+}
+.size{
+    
+    font-size: 350% ;
+
+}
+.button {
+    background-color:tomato;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 13px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #sec2{
+    color:black;
+    text-align: center;
+   padding-top: 200px;
+   font-weight: 700;
+   font-family: 'Arvo', serif;
+    text-align: center;
+  }
+
+  .mid-branc {
+    display: flex ;
+    justify-content: space-evenly;
+  }
+  hr {
+    width: 800px;
+  }
+ 
